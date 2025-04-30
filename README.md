@@ -31,3 +31,8 @@ https://github.com/chanjuping/ComfyUI-AMDopenSUSE.git
 1. Diana
 2. Sarah
 3. Deena
+
+## IWannaMarryAIGirlfriend
+
+1.WOON YI HENG
+2.BONG JIA SHENG
