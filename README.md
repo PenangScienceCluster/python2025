@@ -34,6 +34,9 @@ https://github.com/chanjuping/ComfyUI-AMDopenSUSE.git
 ## Team CYC
 1. Cho Yi Ching
 
+## FUTURISTIC
+1. BEH JIN MIN
+
 ## The Dream Team
 
 1. Raja
