@@ -48,12 +48,16 @@ https://github.com/aidilmuz/ComfyUI.git
 1. Woon Yi Heng
 2. Bong Jie Sheng
 
-## joker
+## joker / sigmaboy in watsapp
 
 Team Members:
 
 1. Fattah
 2. Khirthiken
+   Repository link ;
+   https://github.com/DawlatiBaqiah/ComfyUI
+   Media link ;
+   https://www.youtube.com/shorts/Ve99L_3UE3w?si=HJHLHJ-GdBFvQ6s8
 
 ## KPDBOYZ
 
