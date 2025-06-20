@@ -95,7 +95,7 @@ https://www.youtube.com/shorts/Ve99L_3UE3w
 
 Repository: https://github.com/DamFizz/pythonproject
 
-Video: https://github.com/DamFizz/pythonproject
+Video: https://youtube.com/shorts/h4U-Vps7vUk?feature=share
 
 ## BALIK PULAU BOYZ
 3. Arveen
