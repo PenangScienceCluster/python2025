@@ -50,6 +50,19 @@ https://www.youtube.com/shorts/8t6z6_zqxtQ
 1. Raja
 2. Niesa
 
+## H2H
+
+1. Auni
+2. Afiqah
+
+Project Repository:
+
+https://github.com/nrnnaunii/python2025.git
+
+Video Link:
+
+https://vt.tiktok.com/ZSkGLqWYu/
+
 ## Hello Kitty
 
 1. Foh Wei Yang
