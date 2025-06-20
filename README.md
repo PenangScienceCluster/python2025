@@ -116,6 +116,19 @@ https://vt.tiktok.com/ZSkG2Pghu/
 
 1. Iman
 
+## NEXTGEN Coders
+
+1. Nasrullah
+2. Yaashnavasiin
+
+Project Repository:
+
+https://github.com/07MNasrullah/ComfyUI.git
+
+Video Link:
+
+https://youtube.com/shorts/5r9HhsZwd6s
+
 ## PENGAWAS SEKOLAH
 
 1. Syahmi
@@ -166,16 +179,3 @@ https://youtu.be/IqCHjFhZZNI
 
 1. Ku Aliff
 2. Luqman Hakim
-
-## NEXTGEN Coders
-
-1. Nasrullah
-2. Yaashnavasiin
-
-Project Repository:
-
-https://github.com/07MNasrullah/ComfyUI.git
-
-Video Link:
-
-https://youtube.com/shorts/5r9HhsZwd6s
