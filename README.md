@@ -183,3 +183,17 @@ https://youtu.be/IqCHjFhZZNI
 Video Link : 
 
 https://vt.tiktok.com/ZSktpnFuB/
+
+## The Royal Concord
+
+1. Loh Je Le 
+2. Gabrielle
+
+Project Repository:
+
+https://github.com/yiqiqiqiqiqiqi/ComfyUI.git
+
+Video Link : 
+
+https://youtu.be/hqz7wwHFgHs
+
