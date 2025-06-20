@@ -34,6 +34,19 @@ https://www.youtube.com/shorts/OUctssfvL0U
 ## Team CYC
 1. Cho Yi Ching
 
+## The Royal Concord
+
+1. Loh Je Le 
+2. Gabrielle
+
+Project Repository:
+
+https://github.com/yiqiqiqiqiqiqi/ComfyUI.git
+
+Video Link : 
+
+https://youtu.be/hqz7wwHFgHs
+
 ## FUTURISTIC
 1. BEH JIN MIN
 
