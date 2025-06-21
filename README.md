@@ -90,9 +90,15 @@ https://www.youtube.com/shorts/Ve99L_3UE3w
 
 ## KPDBOYZ
 
-1. Arveen
+1. Aiman
 2. Adam
-3. Aiman
+
+Repository: https://github.com/DamFizz/pythonproject
+
+Video: https://youtube.com/shorts/h4U-Vps7vUk?feature=share
+
+## BALIK PULAU BOYZ
+3. Arveen
 4. Syamer
 
 ## LUNARIAN 
