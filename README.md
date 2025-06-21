@@ -34,19 +34,6 @@ https://www.youtube.com/shorts/OUctssfvL0U
 ## Team CYC
 1. Cho Yi Ching
 
-## The Royal Concord
-
-1. Loh Je Le 
-2. Gabrielle
-
-Project Repository:
-
-https://github.com/yiqiqiqiqiqiqi/ComfyUI.git
-
-Video Link : 
-
-https://youtu.be/hqz7wwHFgHs
-
 ## FUTURISTIC
 1. BEH JIN MIN
 
@@ -161,11 +148,6 @@ Video Link:
 
 https://youtu.be/9oK6ZbXbCcI
 
-## tungtungsahur
-
-1. Anwar
-2. Helini
-
 ## PasirianGirls 
 
 1. Sumaiyah
@@ -187,6 +169,25 @@ https://vt.tiktok.com/ZSkqGuHyc/
 Video Link :
 
 https://youtu.be/IqCHjFhZZNI
+
+## The Royal Concord
+
+1. Loh Je Le 
+2. Gabrielle
+
+Project Repository:
+
+https://github.com/yiqiqiqiqiqiqi/ComfyUI.git
+
+Video Link : 
+
+https://youtu.be/hqz7wwHFgHs
+
+## tungtungsahur
+
+1. Anwar
+2. Helini
+
 
 ## VOCASEP
 
