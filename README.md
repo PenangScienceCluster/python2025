@@ -224,3 +224,14 @@ Video Link :
 
 https://vt.tiktok.com/ZSktpnFuB/
 
+## Trickskill Atas
+1.Tio Tze Khai
+2.Tio Tze Keat
+
+Project Repository:
+
+https://github.com/JeffreyTio/ComfyUI
+
+Video Link : 
+
+https://youtu.be/ZU4N9qgKe3E/
