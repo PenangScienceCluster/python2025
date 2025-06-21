@@ -183,3 +183,17 @@ https://youtu.be/IqCHjFhZZNI
 Video Link : 
 
 https://vt.tiktok.com/ZSktpnFuB/
+
+## SKY
+
+1. Nisa
+2. Damia
+
+Project Repository:
+
+https://github.com/skydamia/python2025.git
+
+Video Link:
+
+https://vt.tiktok.com/ZSknAQgqQ/
+
