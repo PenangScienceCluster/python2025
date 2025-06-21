@@ -148,6 +148,19 @@ Video Link:
 
 https://youtu.be/9oK6ZbXbCcI
 
+## SKY
+
+1. Nisa
+2. Damia
+
+Project Repository:
+
+https://github.com/skydamia/python2025.git
+
+Video Link:
+
+https://vt.tiktok.com/ZSknAQgqQ/
+
 ## PasirianGirls 
 
 1. Sumaiyah
@@ -196,3 +209,4 @@ https://youtu.be/hqz7wwHFgHs
 Video Link : 
 
 https://vt.tiktok.com/ZSktpnFuB/
+
