@@ -72,6 +72,14 @@ https://vt.tiktok.com/ZSkGLqWYu/
 1. Foh Wei Yang
 2. Santhiya
 
+Project Repository:
+
+https://github.com/weiyangfoh/ComfyUI.git
+
+Video Link:
+
+https://youtu.be/LRnxm0dGxL8?si=xPEkrBBpzfSXWNgZ
+
 ## IWannaMarryAIWaifu
 
 1. Woon Yi Heng
