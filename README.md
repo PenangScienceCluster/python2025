@@ -31,8 +31,17 @@ Video Link
 
 https://www.youtube.com/shorts/OUctssfvL0U
 
+## BALIK PULAU BOYZ
+1. Arveen
+2. Syamer
+
 ## Team CYC
 1. Cho Yi Ching
+
+## The Dream Team
+
+1. Raja
+2. Niesa
 
 ## FUTURISTIC
 1. BEH JIN MIN
@@ -44,11 +53,6 @@ https://github.com/FUTURISTIC-BJM/BJM_PROJECT.git
 Video Link:
 
 https://www.youtube.com/shorts/8t6z6_zqxtQ
-
-## The Dream Team
-
-1. Raja
-2. Niesa
 
 ## H2H
 
@@ -105,9 +109,9 @@ Repository: https://github.com/DamFizz/pythonproject
 
 Video: https://youtube.com/shorts/h4U-Vps7vUk?feature=share
 
-## BALIK PULAU BOYZ
-3. Arveen
-4. Syamer
+## team lala
+
+1. iron
 
 ## LUNARIAN 
 
@@ -121,10 +125,6 @@ https://github.com/yensyaa/python2025.git
 Video Link:
 
 https://vt.tiktok.com/ZSkG2Pghu/
-
-## team lala
-
-1. iron
 
 ## Team ManMakan
 
@@ -143,11 +143,6 @@ Video Link:
 
 https://youtube.com/shorts/5r9HhsZwd6s
 
-## PENGAWAS SEKOLAH
-
-1. Syahmi
-2. Azwafi 
-
 ## PasirianBos
 
 1. Lutfi
@@ -162,19 +157,6 @@ Video Link:
 
 https://youtu.be/9oK6ZbXbCcI
 
-## SKY
-
-1. Nisa
-2. Damia
-
-Project Repository:
-
-https://github.com/skydamia/python2025.git
-
-Video Link:
-
-https://vt.tiktok.com/ZSknAQgqQ/
-
 ## PasirianGirls 
 
 1. Sumaiyah
@@ -187,6 +169,11 @@ https://github.com/alyakhryna21/ComfyUI.git
 Video Link:
 
 https://vt.tiktok.com/ZSkqGuHyc/
+
+## PENGAWAS SEKOLAH
+
+1. Syahmi
+2. Azwafi
 
 ## Pie Team
 
@@ -209,6 +196,19 @@ https://github.com/yiqiqiqiqiqiqi/ComfyUI.git
 Video Link : 
 
 https://youtu.be/hqz7wwHFgHs
+
+## SKY
+
+1. Nisa
+2. Damia
+
+Project Repository:
+
+https://github.com/skydamia/python2025.git
+
+Video Link:
+
+https://vt.tiktok.com/ZSknAQgqQ/
 
 ## tungtungsahur
 
