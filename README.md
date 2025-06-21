@@ -148,6 +148,19 @@ Video Link:
 
 https://youtu.be/9oK6ZbXbCcI
 
+## SKY
+
+1. Nisa
+2. Damia
+
+Project Repository:
+
+https://github.com/skydamia/python2025.git
+
+Video Link:
+
+https://vt.tiktok.com/ZSknAQgqQ/
+
 ## tungtungsahur
 
 1. Anwar
@@ -183,3 +196,4 @@ https://youtu.be/IqCHjFhZZNI
 Video Link : 
 
 https://vt.tiktok.com/ZSktpnFuB/
+
