@@ -218,6 +218,18 @@ Video Link:
 
 https://vt.tiktok.com/ZSknAQgqQ/
 
+## Trickskill Atas
+1.Tio Tze Khai
+2.Tio Tze Keat
+
+Project Repository:
+
+https://github.com/JeffreyTio/ComfyUI
+
+Video Link : 
+
+https://youtu.be/ZU4N9qgKe3E/
+
 ## tungtungsahur
 
 1. Anwar
@@ -231,15 +243,3 @@ https://vt.tiktok.com/ZSknAQgqQ/
 Video Link : 
 
 https://vt.tiktok.com/ZSktpnFuB/
-
-## Trickskill Atas
-1.Tio Tze Khai
-2.Tio Tze Keat
-
-Project Repository:
-
-https://github.com/JeffreyTio/ComfyUI
-
-Video Link : 
-
-https://youtu.be/ZU4N9qgKe3E/
