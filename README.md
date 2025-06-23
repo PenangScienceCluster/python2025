@@ -34,7 +34,11 @@ https://www.youtube.com/shorts/OUctssfvL0U
 ## BALIK PULAU BOYZ
 1. Arveen
 2. Syamer
+Project Repository
 
+
+Video link
+https://youtube.com/shorts/1Qm23ISglsk?feature=share
 ## Team CYC
 1. Cho Yi Ching
 
