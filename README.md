@@ -35,6 +35,12 @@ https://www.youtube.com/shorts/OUctssfvL0U
 1. Arveen
 2. Syamer
 
+   REPOSITORY
+   comfyanonymous/ComfyUI:master
+
+   VIDEO LINK
+   https://youtube.com/shorts/1Qm23ISglsk?feature=share
+
 ## Team CYC
 1. Cho Yi Ching
 
