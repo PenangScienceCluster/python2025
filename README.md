@@ -38,6 +38,12 @@ https://www.youtube.com/shorts/OUctssfvL0U
 ## Team CYC
 1. Cho Yi Ching
 
+Project Repository
+https://github.com/ChoYiChing/Python1.git
+
+Video Link
+https://drive.google.com/file/d/1mYJC33j7D-PMR1O2LehYEapKNKZA4-I6/view?usp=sharing
+
 ## The Dream Team
 
 1. Raja
