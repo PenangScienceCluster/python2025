@@ -43,11 +43,11 @@ https://www.youtube.com/shorts/OUctssfvL0U
 1. Raja
 2. Niesa
 
-Video Link :
-https://youtube.com/shorts/keB6EFQIO9k?feature=share
-
 Project Repository :
 https://github.com/LOLZZZBOIII/ComfyUI
+
+Video Link :
+https://youtube.com/shorts/keB6EFQIO9k
 
 ## FUTURISTIC
 1. BEH JIN MIN
