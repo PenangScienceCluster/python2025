@@ -32,8 +32,17 @@ Video Link
 https://www.youtube.com/shorts/OUctssfvL0U
 
 ## BALIK PULAU BOYZ
+
 1. Arveen
 2. Syamer
+
+Project Repository
+
+https://github.com/arveen/ComfyUI.git
+
+Video Link
+
+https://youtube.com/shorts/1Qm23ISglsk?feature=share
 
 ## Team CYC
 1. Cho Yi Ching
@@ -50,6 +59,7 @@ Video Link :
 https://youtube.com/shorts/keB6EFQIO9k
 
 ## FUTURISTIC
+
 1. BEH JIN MIN
 
 Project Repository:
