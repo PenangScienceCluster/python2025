@@ -242,8 +242,9 @@ Video Link:
 https://vt.tiktok.com/ZSknAQgqQ/
 
 ## Trickskill Atas
-1.Tio Tze Khai
-2.Tio Tze Keat
+
+1. Tio Tze Khai
+2. Tio Tze Keat
 
 Project Repository:
 
