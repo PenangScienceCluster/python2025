@@ -42,7 +42,7 @@ https://github.com/arveen/ComfyUI.git
 
 Video Link
 
-https://youtube.com/shorts/1Qm23ISglsk?feature=share
+https://youtube.com/shorts/1Qm23ISglsk
 
 ## Team CYC
 
