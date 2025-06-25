@@ -49,9 +49,11 @@ https://youtube.com/shorts/1Qm23ISglsk
 1. Cho Yi Ching
 
 Project Repository
+
 https://github.com/ChoYiChing/Python1.git
 
-Video Link
+Video Link:
+
 https://drive.google.com/file/d/1mYJC33j7D-PMR1O2LehYEapKNKZA4-I6/view?usp=sharing
 
 ## The Dream Team
@@ -59,10 +61,12 @@ https://drive.google.com/file/d/1mYJC33j7D-PMR1O2LehYEapKNKZA4-I6/view?usp=shari
 1. Raja
 2. Niesa
 
-Project Repository :
+Project Repository:
+
 https://github.com/LOLZZZBOIII/ComfyUI
 
-Video Link :
+Video Link:
+
 https://youtube.com/shorts/keB6EFQIO9k
 
 ## FUTURISTIC
