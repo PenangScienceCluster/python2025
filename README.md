@@ -105,7 +105,7 @@ https://github.com/weiyangfoh/ComfyUI.git
 
 Video Link:
 
-https://youtu.be/LRnxm0dGxL8?si=xPEkrBBpzfSXWNgZ
+https://youtu.be/LRnxm0dGxL8
 
 ## IWannaMarryAIWaifu
 
