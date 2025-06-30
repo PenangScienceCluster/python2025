@@ -23,11 +23,11 @@ Once Upon a Code: Malaysian Legends Reimagined
 ## Team A1d1l
 1. Aidil
 
-Project Repository
+Project Repository:
 
 https://github.com/aidilmuz/ComfyUI.git
 
-Video Link
+Video Link:
 
 https://www.youtube.com/shorts/OUctssfvL0U
 
@@ -36,11 +36,11 @@ https://www.youtube.com/shorts/OUctssfvL0U
 1. Arveen
 2. Syamer
 
-Project Repository
+Project Repository:
 
 https://github.com/arveen/ComfyUI.git
 
-Video Link
+Video Link:
 
 https://youtube.com/shorts/1Qm23ISglsk
 
@@ -48,7 +48,7 @@ https://youtube.com/shorts/1Qm23ISglsk
 
 1. Cho Yi Ching
 
-Project Repository
+Project Repository:
 
 https://github.com/ChoYiChing/Python1.git
 
@@ -120,21 +120,6 @@ Video Link:
 
 https://youtu.be/AGZQV6zc_ok
 
-## sigmaboy
-
-Team Members:
-
-1. Fattah
-2. Khirthiken
-
-Project Repository:
-
-https://github.com/DawlatiBaqiah/ComfyUI
-
-Video Link:
-
-https://www.youtube.com/shorts/Ve99L_3UE3w
-
 ## KPDBOYZ
 
 1. Aiman
@@ -143,10 +128,6 @@ https://www.youtube.com/shorts/Ve99L_3UE3w
 Repository: https://github.com/DamFizz/pythonproject
 
 Video: https://youtube.com/shorts/h4U-Vps7vUk?feature=share
-
-## team lala
-
-1. iron
 
 ## LUNARIAN 
 
@@ -160,10 +141,6 @@ https://github.com/yensyaa/python2025.git
 Video Link:
 
 https://vt.tiktok.com/ZSkG2Pghu/
-
-## Team ManMakan
-
-1. Iman
 
 ## NEXTGEN Coders
 
@@ -205,17 +182,12 @@ Video Link:
 
 https://vt.tiktok.com/ZSkqGuHyc/
 
-## PENGAWAS SEKOLAH
-
-1. Syahmi
-2. Azwafi
-
 ## Pie Team
 
 1. Sim Joshua
 2. Lim Jit Sin
 
-Video Link :
+Video Link:
 
 https://youtu.be/IqCHjFhZZNI
 
@@ -228,9 +200,24 @@ Project Repository:
 
 https://github.com/yiqiqiqiqiqiqi/ComfyUI.git
 
-Video Link : 
+Video Link: 
 
 https://youtu.be/hqz7wwHFgHs
+
+## sigmaboy
+
+Team Members:
+
+1. Fattah
+2. Khirthiken
+
+Project Repository:
+
+https://github.com/DawlatiBaqiah/ComfyUI
+
+Video Link:
+
+https://www.youtube.com/shorts/Ve99L_3UE3w
 
 ## SKY
 
