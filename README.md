@@ -254,7 +254,7 @@ Project Repository:
 
 https://github.com/JeffreyTio/ComfyUI
 
-Video Link : 
+Video Link: 
 
 https://youtu.be/ZU4N9qgKe3E/
 
@@ -263,17 +263,20 @@ https://youtu.be/ZU4N9qgKe3E/
 1. Anwar
 2. Helini
 
-video link: 
+Project Repository: 
+
+https://github.com/helini17/ComfyUI.git
+
+Video Link: 
+
 https://vt.tiktok.com/ZSB11wXeN/
 
-project repository : 
-https://github.com/helini17/ComfyUI.git
 
 ## VOCASEP
 
 1. Ku Aliff
 2. Luqman Hakim
 
-Video Link : 
+Video Link: 
 
 https://vt.tiktok.com/ZSktpnFuB/
